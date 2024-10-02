@@ -307,11 +307,7 @@ export const education = [
   {
     id: 1,
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkx821vptR6c2IxZ2MA68hZHikhuNeTtellg&s",
-    school: "Shishu Vikas High School",
-    date: "Apr 2019 - Apr 2025",
-    grade: "88.2%",
-    desc: "I completed my LKG to class 6 school education at Shishu Vikas High School.",
-    degree: "LKG to Sixth Standardr",
+    school: "Shishu Vikas High School, Goa",
 
   },
 ];
