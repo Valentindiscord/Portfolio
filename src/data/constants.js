@@ -203,14 +203,14 @@ export const experiences = [
     id: 1,
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzWffaDK1xJU0lYFR7kCZZyHwYCsVpe_V46Q&s",
     role: "Administrator · Freelance",
-    company: "PUBG Mobile/Lite | Tencent | Krafton",
+    company: "PUBG Mobile | Tencent | Krafton",
     date: "Dec 2019 - Aug 2020",
     desc: "Built an employee management full stack web app used Docker and deployed on AWS ec2. I was the top performer in the program.",
 
   },
   {
     id: 2,
-    img: "https://esl.com/wp-content/uploads/2024/07/logo-ESL-NEW.svg",
+    img: "https://www.vhv.rs/dpng/d/114-1147554_esl-gaming-esl-logo-hd-png-download.png",
     role: "Volunteer ",
     company: "Esl Gaming · Freelance",
     date: "Jun 2020 - July 2020",
@@ -233,6 +233,66 @@ export const experiences = [
     company: "Villager Esports",
     date: "Apr 2019 - Mar 2021",
     desc: "Administrator at Villager Esports's PUBG Mobile, Free Fire, Call of Duty and Valorant Discord Servers.",
+
+  },
+  {
+    id: 3,
+    img: "hhttps://media.licdn.com/dms/image/v2/D560BAQGJCu2U_L9CNQ/company-logo_100_100/company-logo_100_100/0/1725898995592/riot_games_logo?e=1735776000&v=beta&t=jxjIAr_zxrpdqlXTAv_ymwW-xj3Y7kP3-oSW_NeMK5o",
+    role: "Administrator",
+    company: "Riot Games · Freelance",
+    date: "Sep 2020 - Mar 2021",
+    desc: "Administrator at Valorant India and League of Legends: Wild Rift India Discord server.",
+
+  },
+  {
+    id: 3,
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsJsAUDILLz7W1wOIzvpFkyhJef-IzNh2DoA&s",
+    role: "Administrator",
+    company: "PUBG MOBILE LITE/ PUBG MOBILE LITE India · Freelance",
+    date: "Jul 2020 - Jun 2021",
+    desc: "Administrator at PUBG MOBILE Lite and PUBG MOBILE LITE India Discord server.",
+
+  },
+  {
+    id: 3,
+    img: "https://media.licdn.com/dms/image/v2/C4E0BAQHdRTK8YIDS1Q/company-logo_100_100/company-logo_100_100/0/1673531596263/fnatic_logo?e=1735776000&v=beta&t=uZrR30noDYPozoZB5sL504cYlA5km58u9-d4-gOQwss",
+    role: "Co-owner",
+    company: "Dblist",
+    date: "Jun 2021 - Jan 2022",
+
+  },
+  {
+    id: 3,
+    img: "https://yt3.googleusercontent.com/NdSE4MJYyoHu2HGEBrzw3OGsL9n6eH4ogMrseUVtLb5mmkCBZrjcakJDZbHJR6H-73g6lwfTTw=s900-c-k-c0x00ffffff-no-rj",
+    role: "Community Manager",
+    company: "Payal Gaming · Freelance",
+    date: "May 2019 - Mar 2022",
+    desc: "Managed Payal Gaming's - Discord serverand Facebook group.",
+
+  },
+  {
+    id: 3,
+    img: "https://media.licdn.com/dms/image/v2/D4D0BAQFMcPXDpViLUQ/company-logo_100_100/company-logo_100_100/0/1664518865332?e=1735776000&v=beta&t=BGiAOrgxPr-NA3sVC5PYqjUK4dFtLeL0m0JXP4oRGCk",
+    role: "Manager Liaison, Strategy and Social Media Manager",
+    company: "DesiAddaES Playtech Pvt Ltd (“DAPPL”) ",
+    date: "Jun 2021 - Jun 2022",
+
+  },
+  {
+    id: 3,
+    img: "https://media.licdn.com/dms/image/v2/D560BAQEGavKonGPGcw/company-logo_100_100/company-logo_100_100/0/1719257940480/discord_logo?e=1735776000&v=beta&t=e24IbnsGLFz07yfMM4vAofp64IIXpZ1H6wY6Al74zeE",
+    role: "Bot Developer",
+    company: "Discord · Freelance",
+    date: "Feb 2017 - Dec 2023",
+
+  },
+  {
+    id: 3,
+    img: "https://t4.ftcdn.net/jpg/04/22/56/87/360_F_422568797_I283CmZZr8IUre87xOCsE2SuGNXE3NcC.jpg",
+    role: "Translator",
+    company: "Minecraft, PUBG Corporation, Probt.io, Hydra.bot, MantaroBot, IObit and Bitwarden · Freelance",
+    date: "June 2019 - Mar 2021",
+    desc: "English to Hindi Translation.",
 
   },
 ];
