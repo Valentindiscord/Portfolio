@@ -349,20 +349,6 @@ export const projects = [
     tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
     category: "web app",
     webapp: "https://podstream.netlify.app/",
-    member: [
-      {
-        name: "Jeevan Kumar",
-        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-        linkedin: "https://www.linkedin.com/in/pokajeevankumar/",
-        github: "https://github.com/Valentindiscord/",
-      },
-      {
-        name: "Upasana Chaudhuri",
-        img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-        linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/upasana0710",
-      },
-    ],
   },
   {
     id: 1,
@@ -396,20 +382,6 @@ export const projects = [
     category: "machine learning",
     github: "https://github.com/Valentindiscord/",
     webapp: "https://brain-tumor.netlify.app/",
-    member: [
-      {
-        name: "Jeevan Kumar",
-        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-        linkedin: "https://www.linkedin.com/in/pokajeevankumar",
-        github: "https://github.com/Valentindiscord/",
-      },
-      {
-        name: "Upasana Chaudhuri",
-        img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-        linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/upasana0710",
-      },
-    ],
   },
   {
     id: 3,
