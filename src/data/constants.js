@@ -14,7 +14,7 @@ export const Bio = {
   linkedin: "https://www.linkedin.com/in/pokajeevankumar/",
   twitter: "https://twitter.com/JeevanKTweets",
   insta: "https://www.instagram.com/",
-  facebook: "https://www.facebook.com/rishav.chanda.165/",
+  facebook: "https://www.facebook.com/",
 };
 
 export const skills = [
@@ -183,11 +183,11 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
-    role: "DevOps & Fullstack Engineering Intern",
-    company: "Flipr Inovations Pvt. Ltd.",
-    date: "Aug 2023 - July 2023",
-    desc: "Working on Flipr Platforms, managing DevOps, and streamlining the process with automation.",
+    img: "https://media.licdn.com/dms/image/v2/C560BAQFz-GvEBiNDLw/company-logo_100_100/company-logo_100_100/0/1645123687382/pokebest_logo?e=1735776000&v=beta&t=vupsu_u7jtUXo7R6dWbk0eU5CavQPhTMlV-qEA_0gY4",
+    role: "Chief Executive Officer",
+    company: "Pokebest",
+    date: "Apr 2021 - Present",
+    desc: "Connecting Pokémon gamers and communities together over the internet through tools and resources.",
     skills: [
       "Docker",
       "Terraform",
